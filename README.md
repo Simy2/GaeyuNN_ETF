@@ -1,7 +1,7 @@
 # GaeyuNN_ETF
 
 <div style="text-align: center;">
-    <img src="DALL·E 2024-07-11 12.50.45 - A simple and clean illustration representing a project on predicting ETF prices using Graph Neural Networks (GNN). The image should include a basic gr.webp" alt="alt text" width="300"/>
+    <img src="https://github.com/simjaeyoun/GaeyuNN_ETF/assets/104803819/9447cffe-a348-46f1-8a3a-f0b579873807" alt="gnn etf" width = 300/>
 </div>
 
 <div style="text-align: center;">
@@ -10,7 +10,6 @@
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
     <img src = "https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
 </div>
-
 
 
 ## The data sets of stocks and etfs and gnn modeling of predicting etf price<br>(krx사이트 기반 주식 데이터 및 etf 데이터)
